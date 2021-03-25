@@ -1,9 +1,9 @@
-#### Check out what I'm currently working on
+#### :wrench: Work in progress
 
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (today)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (3 days ago)
 - [phalcon/phalcon-devtools](https://github.com/phalcon/phalcon-devtools) - Phalcon Developer Tools (3 days ago)
-- [phalcon/incubator-cache](https://github.com/phalcon/incubator-cache) -  (6 days ago)
+- [phalcon/incubator-cache](https://github.com/phalcon/incubator-cache) - Extra Phalcon Cache Adapters. (6 days ago)
 - [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 week ago)
 - [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (1 week ago)
 - [zephir-lang/zephir-docs](https://github.com/zephir-lang/zephir-docs) - Zephir Documentation and website (1 week ago)
@@ -11,7 +11,7 @@
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project (1 week ago)
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) - Phalcon Tutorial (1 week ago)
 
-#### Latest releases I've contributed to
+#### :pushpin: Latest releases I've contributed to
 
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.13.0](https://github.com/zephir-lang/zephir/releases/tag/0.13.0), today) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
 - [phalcon/phalcon-devtools](https://github.com/phalcon/phalcon-devtools) ([v4.0.6](https://github.com/phalcon/phalcon-devtools/releases/tag/v4.0.6), 3 days ago) - Phalcon Developer Tools
@@ -24,7 +24,7 @@
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) ([v1.0.0](https://github.com/phalcon/incubator-mongodb/releases/tag/v1.0.0), 2 months ago) - MongoDB Database adapter for Phalcon Framework.
 - [phalcon/incubator-session](https://github.com/phalcon/incubator-session) ([v1.1.3](https://github.com/phalcon/incubator-session/releases/tag/v1.1.3), 3 months ago) - Extra Phalcon Session Adapters.
 
-#### Check out some of my recent followers
+#### :tada: Recent followers
 
 - [oguzhanT](https://github.com/oguzhanT)
 - [zz](https://github.com/zz)
