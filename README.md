@@ -26,8 +26,8 @@
 
 #### :tada: Recent followers
 
+- [stanleer](https://github.com/stanleer)
 - [oguzhanT](https://github.com/oguzhanT)
 - [zz](https://github.com/zz)
 - [Arhell](https://github.com/Arhell)
 - [zsilbi](https://github.com/zsilbi)
-- [studyzhanglei](https://github.com/studyzhanglei)
