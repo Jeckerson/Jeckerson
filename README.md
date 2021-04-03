@@ -1,9 +1,9 @@
 #### :wrench: Work in progress
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (1 day ago)
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (4 days ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (5 days ago)
-- [phalcon/incubator-annotations](https://github.com/phalcon/incubator-annotations) - Extra Phalcon Annotations Adapters. (5 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (2 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (5 days ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (6 days ago)
+- [phalcon/incubator-annotations](https://github.com/phalcon/incubator-annotations) - Extra Phalcon Annotations Adapters. (6 days ago)
 - [phalcon/phalcon-devtools](https://github.com/phalcon/phalcon-devtools) - Phalcon Developer Tools (1 week ago)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 week ago)
 - [phalcon/incubator-cache](https://github.com/phalcon/incubator-cache) - Extra Phalcon Cache Adapters. (2 weeks ago)
@@ -13,10 +13,10 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.13.1](https://github.com/zephir-lang/zephir/releases/tag/0.13.1), 2 days ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0-alpha.1](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0-alpha.1), 2 days ago) - High performance, full-stack PHP framework delivered as a C extension.
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.0.0-alpha8](https://github.com/phpbench/phpbench/releases/tag/1.0.0-alpha8), 5 days ago) - PHP Benchmarking framework
-- [phalcon/incubator-annotations](https://github.com/phalcon/incubator-annotations) ([v1.0.0](https://github.com/phalcon/incubator-annotations/releases/tag/v1.0.0), 5 days ago) - Extra Phalcon Annotations Adapters.
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.13.1](https://github.com/zephir-lang/zephir/releases/tag/0.13.1), 3 days ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0-alpha.1](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0-alpha.1), 3 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.0.0-alpha8](https://github.com/phpbench/phpbench/releases/tag/1.0.0-alpha8), 6 days ago) - PHP Benchmarking framework
+- [phalcon/incubator-annotations](https://github.com/phalcon/incubator-annotations) ([v1.0.0](https://github.com/phalcon/incubator-annotations/releases/tag/v1.0.0), 6 days ago) - Extra Phalcon Annotations Adapters.
 - [phalcon/phalcon-devtools](https://github.com/phalcon/phalcon-devtools) ([v4.0.6](https://github.com/phalcon/phalcon-devtools/releases/tag/v4.0.6), 1 week ago) - Phalcon Developer Tools
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.1.6](https://github.com/phalcon/migrations/releases/tag/v2.1.6), 1 week ago) - Generate or migrate database changes via migrations.
 - [phalcon/incubator-translate](https://github.com/phalcon/incubator-translate) ([v0.2.0](https://github.com/phalcon/incubator-translate/releases/tag/v0.2.0), 1 month ago) - Extra Phalcon Translate Adapters.
