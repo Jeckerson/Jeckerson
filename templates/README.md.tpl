@@ -7,8 +7,3 @@
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
-
-#### :tada: Recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
