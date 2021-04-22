@@ -13,10 +13,10 @@
 
 #### :pushpin: Latest releases I've contributed to
 
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v4.1.1](https://github.com/phalcon/cphalcon/releases/tag/v4.1.1), 1 day ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [Codeception/module-phalcon4](https://github.com/Codeception/module-phalcon4) ([v1.0.6](https://github.com/Codeception/module-phalcon4/releases/tag/v1.0.6), 1 week ago) - Phalcon 4 module for Codeception
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.13.2](https://github.com/zephir-lang/zephir/releases/tag/0.13.2), 1 week ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
 - [phalcon/phalcon-devtools](https://github.com/phalcon/phalcon-devtools) ([v4.1.0](https://github.com/phalcon/phalcon-devtools/releases/tag/v4.1.0), 1 week ago) - Phalcon Developer Tools
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0-alpha.1](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0-alpha.1), 3 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/incubator-annotations](https://github.com/phalcon/incubator-annotations) ([v1.0.0](https://github.com/phalcon/incubator-annotations/releases/tag/v1.0.0), 3 weeks ago) - Extra Phalcon Annotations Adapters.
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.1.6](https://github.com/phalcon/migrations/releases/tag/v2.1.6), 1 month ago) - Generate or migrate database changes via migrations.
 - [phalcon/incubator-translate](https://github.com/phalcon/incubator-translate) ([v0.2.0](https://github.com/phalcon/incubator-translate/releases/tag/v0.2.0), 1 month ago) - Extra Phalcon Translate Adapters.
