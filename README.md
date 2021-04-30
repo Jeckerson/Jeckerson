@@ -1,22 +1,22 @@
 #### :wrench: Work in progress
 
-- [phlexus/phalcon-router](https://github.com/phlexus/phalcon-router) - Multi format wrapper for Phalcon Router (1 day ago)
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (3 days ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (3 days ago)
-- [phalcon/incubator-db](https://github.com/phalcon/incubator-db) -  (5 days ago)
+- [phlexus/phalcon-router](https://github.com/phlexus/phalcon-router) - Multi format wrapper for Phalcon Router (2 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (4 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (4 days ago)
+- [phalcon/incubator-db](https://github.com/phalcon/incubator-db) -  (6 days ago)
 - [phalcon/dockerfiles](https://github.com/phalcon/dockerfiles) - Phalcon Dockerfiles used for internal purposes. (1 week ago)
 - [Codeception/module-phalcon4](https://github.com/Codeception/module-phalcon4) - Phalcon 4 module for Codeception (2 weeks ago)
-- [phalcon/phalcon-devtools](https://github.com/phalcon/phalcon-devtools) - Phalcon Developer Tools (2 weeks ago)
+- [phalcon/phalcon-devtools](https://github.com/phalcon/phalcon-devtools) - Phalcon Developer Tools (3 weeks ago)
 - [zephir-lang/zephir-docs](https://github.com/zephir-lang/zephir-docs) - Zephir Documentation and website (3 weeks ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 weeks ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 weeks ago)
 - [phalcon/incubator-annotations](https://github.com/phalcon/incubator-annotations) - Extra Phalcon Annotations Adapters. (1 month ago)
 
 #### :pushpin: Latest releases I've contributed to
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.13.4](https://github.com/zephir-lang/zephir/releases/tag/0.13.4), 3 days ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v4.1.2](https://github.com/phalcon/cphalcon/releases/tag/v4.1.2), 4 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.13.4](https://github.com/zephir-lang/zephir/releases/tag/0.13.4), 4 days ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v4.1.2](https://github.com/phalcon/cphalcon/releases/tag/v4.1.2), 5 days ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [Codeception/module-phalcon4](https://github.com/Codeception/module-phalcon4) ([v1.0.6](https://github.com/Codeception/module-phalcon4/releases/tag/v1.0.6), 2 weeks ago) - Phalcon 4 module for Codeception
-- [phalcon/phalcon-devtools](https://github.com/phalcon/phalcon-devtools) ([v4.1.0](https://github.com/phalcon/phalcon-devtools/releases/tag/v4.1.0), 2 weeks ago) - Phalcon Developer Tools
+- [phalcon/phalcon-devtools](https://github.com/phalcon/phalcon-devtools) ([v4.1.0](https://github.com/phalcon/phalcon-devtools/releases/tag/v4.1.0), 3 weeks ago) - Phalcon Developer Tools
 - [phalcon/incubator-annotations](https://github.com/phalcon/incubator-annotations) ([v1.0.0](https://github.com/phalcon/incubator-annotations/releases/tag/v1.0.0), 1 month ago) - Extra Phalcon Annotations Adapters.
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.1.6](https://github.com/phalcon/migrations/releases/tag/v2.1.6), 1 month ago) - Generate or migrate database changes via migrations.
 - [phalcon/incubator-translate](https://github.com/phalcon/incubator-translate) ([v0.2.0](https://github.com/phalcon/incubator-translate/releases/tag/v0.2.0), 2 months ago) - Extra Phalcon Translate Adapters.
