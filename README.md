@@ -1,13 +1,13 @@
 #### :wrench: Work in progress
 
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (2 days ago)
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (3 days ago)
-- [Codeception/module-phalcon4](https://github.com/Codeception/module-phalcon4) - Phalcon 4 module for Codeception (1 week ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (3 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (4 days ago)
+- [Codeception/module-phalcon4](https://github.com/Codeception/module-phalcon4) - Phalcon 4 module for Codeception (2 weeks ago)
 - [phlexus/phlexus-files](https://github.com/phlexus/phlexus-files) - Phlexus CMS Files Manager (3 weeks ago)
 - [phlexus/phlexus-module-admin](https://github.com/phlexus/phlexus-module-admin) - :package: Phlexus Admin Module (3 weeks ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (3 weeks ago)
 - [phlexus/phlexus-library-theme](https://github.com/phlexus/phlexus-library-theme) - :books: Phlexus Theme Manager (3 weeks ago)
-- [phlexus/phlexus-theme-admin-tabler](https://github.com/phlexus/phlexus-theme-admin-tabler) -  (3 weeks ago)
+- [phlexus/phlexus-theme-admin-tabler](https://github.com/phlexus/phlexus-theme-admin-tabler) -  (4 weeks ago)
 - [phlexus/phlexus-hello-world](https://github.com/phlexus/phlexus-hello-world) -  (4 weeks ago)
 - [phlexus/hello-world](https://github.com/phlexus/hello-world) - :wave: Hello world application (1 month ago)
 
