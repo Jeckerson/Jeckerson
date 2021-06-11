@@ -1,19 +1,19 @@
 #### :wrench: Work in progress
 
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (3 days ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (6 days ago)
+- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (1 day ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (4 days ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
 - [Codeception/module-phalcon4](https://github.com/Codeception/module-phalcon4) - Phalcon 4 module for Codeception (2 weeks ago)
-- [phlexus/phlexus-files](https://github.com/phlexus/phlexus-files) - Phlexus CMS Files Manager (4 weeks ago)
 - [phlexus/phlexus-module-admin](https://github.com/phlexus/phlexus-module-admin) - :package: Phlexus Admin Module (4 weeks ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (4 weeks ago)
+- [phlexus/phlexus-files](https://github.com/phlexus/phlexus-files) - Phlexus CMS Files Manager (4 weeks ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (1 month ago)
 - [phlexus/phlexus-library-theme](https://github.com/phlexus/phlexus-library-theme) - :books: Phlexus Theme Manager (1 month ago)
 - [phlexus/phlexus-theme-admin-tabler](https://github.com/phlexus/phlexus-theme-admin-tabler) -  (1 month ago)
 - [phlexus/phlexus-hello-world](https://github.com/phlexus/phlexus-hello-world) -  (1 month ago)
-- [phlexus/hello-world](https://github.com/phlexus/hello-world) - :wave: Hello world application (1 month ago)
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.0.2](https://github.com/phpbench/phpbench/releases/tag/1.0.2), 1 week ago) - PHP Benchmarking framework
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.0.2](https://github.com/phpbench/phpbench/releases/tag/1.0.2), 2 weeks ago) - PHP Benchmarking framework
 - [Codeception/module-phalcon4](https://github.com/Codeception/module-phalcon4) ([v1.0.7](https://github.com/Codeception/module-phalcon4/releases/tag/v1.0.7), 3 weeks ago) - Phalcon 4 module for Codeception
 - [phlexus/phlexus-files](https://github.com/phlexus/phlexus-files) ([v0.9.0](https://github.com/phlexus/phlexus-files/releases/tag/v0.9.0), 4 weeks ago) - Phlexus CMS Files Manager
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.13.5](https://github.com/zephir-lang/zephir/releases/tag/0.13.5), 1 month ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
