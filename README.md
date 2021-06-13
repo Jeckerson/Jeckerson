@@ -1,7 +1,7 @@
 #### :wrench: Work in progress
 
-- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (2 days ago)
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (5 days ago)
+- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (3 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (6 days ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
 - [Codeception/module-phalcon4](https://github.com/Codeception/module-phalcon4) - Phalcon 4 module for Codeception (2 weeks ago)
 - [phlexus/phlexus-module-admin](https://github.com/phlexus/phlexus-module-admin) - :package: Phlexus Admin Module (1 month ago)
