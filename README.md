@@ -21,5 +21,5 @@
 - [php-fig/log](https://github.com/php-fig/log) ([1.1.4](https://github.com/php-fig/log/releases/tag/1.1.4), 1 month ago) - 
 - [phalcon/phalcon-devtools](https://github.com/phalcon/phalcon-devtools) ([v4.1.0](https://github.com/phalcon/phalcon-devtools/releases/tag/v4.1.0), 2 months ago) - Phalcon Developer Tools
 - [phalcon/incubator-annotations](https://github.com/phalcon/incubator-annotations) ([v1.0.0](https://github.com/phalcon/incubator-annotations/releases/tag/v1.0.0), 2 months ago) - Extra Phalcon Annotations Adapters.
-- [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.1.6](https://github.com/phalcon/migrations/releases/tag/v2.1.6), 2 months ago) - Generate or migrate database changes via migrations.
+- [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.1.6](https://github.com/phalcon/migrations/releases/tag/v2.1.6), 3 months ago) - Generate or migrate database changes via migrations.
 - [phalcon/incubator-translate](https://github.com/phalcon/incubator-translate) ([v0.2.0](https://github.com/phalcon/incubator-translate/releases/tag/v0.2.0), 3 months ago) - Extra Phalcon Translate Adapters.
