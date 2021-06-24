@@ -1,7 +1,7 @@
 #### :wrench: Work in progress
 
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (2 days ago)
-- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (1 week ago)
+- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (1 day ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 day ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (2 weeks ago)
 - [Codeception/module-phalcon4](https://github.com/Codeception/module-phalcon4) - Phalcon 4 module for Codeception (1 month ago)
 - [phlexus/phlexus-files](https://github.com/phlexus/phlexus-files) - Phlexus CMS Files Manager (1 month ago)
