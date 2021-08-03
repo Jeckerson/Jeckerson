@@ -1,10 +1,10 @@
 #### :wrench: Work in progress
 
-- [phalcon/dockerfiles](https://github.com/phalcon/dockerfiles) - Phalcon Dockerfiles used for internal purposes. (3 days ago)
-- [phalcon/packagecloud](https://github.com/phalcon/packagecloud) - :cloud: Phalcon Build Project (6 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 day ago)
+- [phalcon/dockerfiles](https://github.com/phalcon/dockerfiles) - Phalcon Dockerfiles used for internal purposes. (4 days ago)
+- [phalcon/packagecloud](https://github.com/phalcon/packagecloud) - :cloud: Phalcon Build Project (1 week ago)
 - [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (1 week ago)
 - [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (2 weeks ago)
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (2 weeks ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (2 weeks ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (1 month ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/packagecloud](https://github.com/phalcon/packagecloud) ([v2.0.0](https://github.com/phalcon/packagecloud/releases/tag/v2.0.0), 6 days ago) - :cloud: Phalcon Build Project
+- [phalcon/packagecloud](https://github.com/phalcon/packagecloud) ([v2.0.0](https://github.com/phalcon/packagecloud/releases/tag/v2.0.0), 1 week ago) - :cloud: Phalcon Build Project
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.0.4](https://github.com/phpbench/phpbench/releases/tag/1.0.4), 2 weeks ago) - PHP Benchmarking framework
 - [phalcon/phalcon-devtools](https://github.com/phalcon/phalcon-devtools) ([v4.1.1](https://github.com/phalcon/phalcon-devtools/releases/tag/v4.1.1), 3 weeks ago) - Phalcon Developer Tools
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0alpha3](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0alpha3), 1 month ago) - High performance, full-stack PHP framework delivered as a C extension.
