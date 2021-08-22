@@ -1,6 +1,6 @@
 #### :wrench: Work in progress
 
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (5 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (6 days ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 week ago)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 week ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (2 weeks ago)
@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.0](https://github.com/phpbench/phpbench/releases/tag/1.1.0), 6 days ago) - PHP Benchmarking framework
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.0](https://github.com/phpbench/phpbench/releases/tag/1.1.0), 1 week ago) - PHP Benchmarking framework
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.3.7](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.3.7), 1 week ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.2.3](https://github.com/phalcon/migrations/releases/tag/v2.2.3), 1 week ago) - Generate or migrate database changes via migrations.
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.14.0-beta.3](https://github.com/zephir-lang/zephir/releases/tag/0.14.0-beta.3), 2 weeks ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
