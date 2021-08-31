@@ -17,9 +17,9 @@
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.3.7](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.3.7), 2 weeks ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.2.3](https://github.com/phalcon/migrations/releases/tag/v2.2.3), 2 weeks ago) - Generate or migrate database changes via migrations.
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.14.0-beta.3](https://github.com/zephir-lang/zephir/releases/tag/0.14.0-beta.3), 3 weeks ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
-- [phalcon/phalcon-devtools](https://github.com/phalcon/phalcon-devtools) ([v4.2.0](https://github.com/phalcon/phalcon-devtools/releases/tag/v4.2.0), 3 weeks ago) - Phalcon Developer Tools
+- [phalcon/phalcon-devtools](https://github.com/phalcon/phalcon-devtools) ([v4.2.0](https://github.com/phalcon/phalcon-devtools/releases/tag/v4.2.0), 4 weeks ago) - Phalcon Developer Tools
 - [phalcon/packagecloud](https://github.com/phalcon/packagecloud) ([v2.0.0](https://github.com/phalcon/packagecloud/releases/tag/v2.0.0), 1 month ago) - :cloud: Phalcon Build Project
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0alpha3](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0alpha3), 2 months ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [Codeception/module-phalcon4](https://github.com/Codeception/module-phalcon4) ([v1.0.7](https://github.com/Codeception/module-phalcon4/releases/tag/v1.0.7), 3 months ago) - Phalcon 4 module for Codeception
 - [phlexus/phlexus-files](https://github.com/phlexus/phlexus-files) ([v0.9.0](https://github.com/phlexus/phlexus-files/releases/tag/v0.9.0), 3 months ago) - Phlexus CMS Files Manager
-- [php-fig/log](https://github.com/php-fig/log) ([1.1.4](https://github.com/php-fig/log/releases/tag/1.1.4), 3 months ago) - 
+- [php-fig/log](https://github.com/php-fig/log) ([1.1.4](https://github.com/php-fig/log/releases/tag/1.1.4), 4 months ago) - 
