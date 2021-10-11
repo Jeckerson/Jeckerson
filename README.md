@@ -1,21 +1,21 @@
 #### :wrench: Work in progress
 
-- [phalcon/incubator-config](https://github.com/phalcon/incubator-config) -  (1 day ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (2 days ago)
-- [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (2 days ago)
-- [phalcon/incubator-events](https://github.com/phalcon/incubator-events) -  (4 days ago)
+- [phalcon/incubator-avatar](https://github.com/phalcon/incubator-avatar) - Phalcon Avatar Adapters (1 day ago)
+- [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (1 day ago)
+- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 day ago)
+- [phalcon/incubator-config](https://github.com/phalcon/incubator-config) -  (2 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (3 days ago)
+- [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (3 days ago)
+- [phalcon/incubator-events](https://github.com/phalcon/incubator-events) -  (5 days ago)
 - [phalcon/incubator-session](https://github.com/phalcon/incubator-session) - Extra Phalcon Session Adapters. (1 week ago)
 - [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) - Extra Phalcon Validator Adapters.  (1 week ago)
 - [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) - Extra components for Phalcon\Acl (1 week ago)
-- [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds (1 week ago)
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 week ago)
-- [zephir-lang/zephir-docs](https://github.com/zephir-lang/zephir-docs) - Zephir Documentation and website (2 weeks ago)
 
 #### :pushpin: Latest releases I've contributed to
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.15.1](https://github.com/zephir-lang/zephir/releases/tag/0.15.1), 2 days ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
-- [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) ([v1.0](https://github.com/zephir-lang/setup-php-sdk/releases/tag/v1.0), 3 days ago) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds
-- [phalcon/incubator-events](https://github.com/phalcon/incubator-events) ([v1.0.1](https://github.com/phalcon/incubator-events/releases/tag/v1.0.1), 4 days ago) - 
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.15.1](https://github.com/zephir-lang/zephir/releases/tag/0.15.1), 3 days ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
+- [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) ([v1.0](https://github.com/zephir-lang/setup-php-sdk/releases/tag/v1.0), 4 days ago) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds
+- [phalcon/incubator-events](https://github.com/phalcon/incubator-events) ([v1.0.1](https://github.com/phalcon/incubator-events/releases/tag/v1.0.1), 5 days ago) - 
 - [phalcon/incubator-session](https://github.com/phalcon/incubator-session) ([v1.1.4](https://github.com/phalcon/incubator-session/releases/tag/v1.1.4), 1 week ago) - Extra Phalcon Session Adapters.
 - [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) ([v1.0.0](https://github.com/phalcon/incubator-acl/releases/tag/v1.0.0), 1 week ago) - Extra components for Phalcon\Acl
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.1.2](https://github.com/phpbench/phpbench/releases/tag/1.1.2), 2 weeks ago) - PHP Benchmarking framework
