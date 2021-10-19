@@ -1,9 +1,9 @@
 #### :wrench: Work in progress
 
-- [zephir-lang/zephir-docs](https://github.com/zephir-lang/zephir-docs) - Zephir Documentation and website (2 days ago)
-- [phalcon/incubator-translate](https://github.com/phalcon/incubator-translate) - Extra Phalcon Translate Adapters. (5 days ago)
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (5 days ago)
-- [phalcon/incubator-annotations](https://github.com/phalcon/incubator-annotations) - Extra Phalcon Annotations Adapters. (6 days ago)
+- [zephir-lang/zephir-docs](https://github.com/zephir-lang/zephir-docs) - Zephir Documentation and website (3 days ago)
+- [phalcon/incubator-translate](https://github.com/phalcon/incubator-translate) - Extra Phalcon Translate Adapters. (6 days ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (6 days ago)
+- [phalcon/incubator-annotations](https://github.com/phalcon/incubator-annotations) - Extra Phalcon Annotations Adapters. (1 week ago)
 - [phalcon/incubator-cli](https://github.com/phalcon/incubator-cli) -  (1 week ago)
 - [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 week ago)
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (1 week ago)
