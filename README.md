@@ -1,7 +1,7 @@
 #### :wrench: Work in progress
 
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (6 days ago)
-- [Codeception/module-phalcon4](https://github.com/Codeception/module-phalcon4) - Phalcon 4 module for Codeception (6 days ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 week ago)
+- [Codeception/module-phalcon4](https://github.com/Codeception/module-phalcon4) - Phalcon 4 module for Codeception (1 week ago)
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) - MongoDB Database adapter for Phalcon Framework. (1 week ago)
 - [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 week ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (1 week ago)
@@ -13,8 +13,8 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0alpha7](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0alpha7), 3 days ago) - High performance, full-stack PHP framework delivered as a C extension.
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.0](https://github.com/phpbench/phpbench/releases/tag/1.2.0), 1 week ago) - PHP Benchmarking framework
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0alpha7](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0alpha7), 4 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.0](https://github.com/phpbench/phpbench/releases/tag/1.2.0), 2 weeks ago) - PHP Benchmarking framework
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.15.2](https://github.com/zephir-lang/zephir/releases/tag/0.15.2), 3 weeks ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) ([v1.0.1](https://github.com/phalcon/incubator-mongodb/releases/tag/v1.0.1), 1 month ago) - MongoDB Database adapter for Phalcon Framework.
 - [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) ([v1.0](https://github.com/zephir-lang/setup-php-sdk/releases/tag/v1.0), 1 month ago) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds
