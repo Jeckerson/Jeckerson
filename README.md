@@ -1,6 +1,6 @@
 #### :wrench: Work in progress
 
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (6 days ago)
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 week ago)
 - [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 week ago)
 - [Codeception/module-phalcon4](https://github.com/Codeception/module-phalcon4) - Phalcon 4 module for Codeception (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (2 weeks ago)
@@ -19,7 +19,7 @@
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) ([v1.0.1](https://github.com/phalcon/incubator-mongodb/releases/tag/v1.0.1), 1 month ago) - MongoDB Database adapter for Phalcon Framework.
 - [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) ([v1.0](https://github.com/zephir-lang/setup-php-sdk/releases/tag/v1.0), 1 month ago) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds
 - [phalcon/incubator-events](https://github.com/phalcon/incubator-events) ([v1.0.1](https://github.com/phalcon/incubator-events/releases/tag/v1.0.1), 1 month ago) - 
-- [phalcon/incubator-session](https://github.com/phalcon/incubator-session) ([v1.1.4](https://github.com/phalcon/incubator-session/releases/tag/v1.1.4), 1 month ago) - Extra Phalcon Session Adapters.
-- [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) ([v1.0.0](https://github.com/phalcon/incubator-acl/releases/tag/v1.0.0), 1 month ago) - Extra components for Phalcon\Acl
+- [phalcon/incubator-session](https://github.com/phalcon/incubator-session) ([v1.1.4](https://github.com/phalcon/incubator-session/releases/tag/v1.1.4), 2 months ago) - Extra Phalcon Session Adapters.
+- [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) ([v1.0.0](https://github.com/phalcon/incubator-acl/releases/tag/v1.0.0), 2 months ago) - Extra components for Phalcon\Acl
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.4.1](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.4.1), 2 months ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.0.0-alpha.6](https://github.com/phalcon/ide-stubs/releases/tag/v5.0.0-alpha.6), 2 months ago) - Phalcon IDE Stubs
