@@ -1,21 +1,21 @@
 #### :wrench: Work in progress
 
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 day ago)
-- [jbboehr/php-psr](https://github.com/jbboehr/php-psr) - PHP extension providing the accepted PSR interfaces (1 day ago)
-- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (1 day ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (2 days ago)
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (4 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (1 day ago)
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (2 days ago)
+- [jbboehr/php-psr](https://github.com/jbboehr/php-psr) - PHP extension providing the accepted PSR interfaces (2 days ago)
+- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (2 days ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (3 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (5 days ago)
 - [Codeception/module-phalcon4](https://github.com/Codeception/module-phalcon4) - Phalcon 4 module for Codeception (3 weeks ago)
-- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (4 weeks ago)
+- [php/php-src](https://github.com/php/php-src) - The PHP Interpreter (1 month ago)
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) - MongoDB Database adapter for Phalcon Framework. (1 month ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (1 month ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
 
 #### :pushpin: Latest releases I've contributed to
 
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.4.2](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.4.2), 1 day ago) - The Zephir Parser delivered as a C extension for the PHP language.
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.2](https://github.com/phpbench/phpbench/releases/tag/1.2.2), 1 day ago) - PHP Benchmarking framework
-- [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.2.4](https://github.com/phalcon/migrations/releases/tag/v2.2.4), 2 days ago) - Generate or migrate database changes via migrations.
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.4.2](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.4.2), 2 days ago) - The Zephir Parser delivered as a C extension for the PHP language.
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.2](https://github.com/phpbench/phpbench/releases/tag/1.2.2), 2 days ago) - PHP Benchmarking framework
+- [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.2.4](https://github.com/phalcon/migrations/releases/tag/v2.2.4), 3 days ago) - Generate or migrate database changes via migrations.
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0alpha7](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0alpha7), 3 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.15.2](https://github.com/zephir-lang/zephir/releases/tag/0.15.2), 1 month ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) ([v1.0.1](https://github.com/phalcon/incubator-mongodb/releases/tag/v1.0.1), 1 month ago) - MongoDB Database adapter for Phalcon Framework.
