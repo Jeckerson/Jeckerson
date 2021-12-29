@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 day ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 days ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (4 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (2 days ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (5 days ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (2 weeks ago)
 - [jbboehr/php-psr](https://github.com/jbboehr/php-psr) - PHP extension providing the accepted PSR interfaces (2 weeks ago)
@@ -13,9 +13,9 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.0.0-beta.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.0.0-beta.1), 1 day ago) - Phalcon IDE Stubs
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0beta1](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0beta1), 3 days ago) - High performance, full-stack PHP framework delivered as a C extension.
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.3](https://github.com/phpbench/phpbench/releases/tag/1.2.3), 4 days ago) - PHP Benchmarking framework
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.0.0-beta.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.0.0-beta.1), 2 days ago) - Phalcon IDE Stubs
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0beta1](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0beta1), 4 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.2.3](https://github.com/phpbench/phpbench/releases/tag/1.2.3), 5 days ago) - PHP Benchmarking framework
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v1.0.1](https://github.com/Codeception/module-phalcon5/releases/tag/v1.0.1), 1 week ago) - Phalcon 5 module for Codeception
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.4.2](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.4.2), 2 weeks ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.2.4](https://github.com/phalcon/migrations/releases/tag/v2.2.4), 2 weeks ago) - Generate or migrate database changes via migrations.
