@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (1 day ago)
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 day ago)
-- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (4 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (2 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (2 days ago)
+- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (5 days ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (3 weeks ago)
@@ -20,6 +20,6 @@
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.2.4](https://github.com/phalcon/migrations/releases/tag/v2.2.4), 3 weeks ago) - Generate or migrate database changes via migrations.
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.15.2](https://github.com/zephir-lang/zephir/releases/tag/0.15.2), 2 months ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) ([v1.0.1](https://github.com/phalcon/incubator-mongodb/releases/tag/v1.0.1), 2 months ago) - MongoDB Database adapter for Phalcon Framework.
-- [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) ([v1.0](https://github.com/zephir-lang/setup-php-sdk/releases/tag/v1.0), 2 months ago) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds
+- [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) ([v1.0](https://github.com/zephir-lang/setup-php-sdk/releases/tag/v1.0), 3 months ago) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds
 - [phalcon/incubator-events](https://github.com/phalcon/incubator-events) ([v1.0.1](https://github.com/phalcon/incubator-events/releases/tag/v1.0.1), 3 months ago) - Extra Phalcon Events Adapters.
 - [phalcon/incubator-session](https://github.com/phalcon/incubator-session) ([v1.1.4](https://github.com/phalcon/incubator-session/releases/tag/v1.1.4), 3 months ago) - Extra Phalcon Session Adapters.
