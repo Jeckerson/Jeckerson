@@ -1,7 +1,7 @@
 #### :wrench: Work in progress
 
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (2 days ago)
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (6 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (3 days ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (1 week ago)
 - [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
@@ -13,9 +13,9 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.0.0-beta.2](https://github.com/phalcon/ide-stubs/releases/tag/v5.0.0-beta.2), 2 days ago) - Phalcon IDE Stubs
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v4.1.3](https://github.com/phalcon/cphalcon/releases/tag/v4.1.3), 6 days ago) - High performance, full-stack PHP framework delivered as a C extension.
-- [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v1.0.1](https://github.com/Codeception/module-phalcon5/releases/tag/v1.0.1), 3 weeks ago) - Phalcon 5 module for Codeception
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.0.0-beta.2](https://github.com/phalcon/ide-stubs/releases/tag/v5.0.0-beta.2), 3 days ago) - Phalcon IDE Stubs
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v4.1.3](https://github.com/phalcon/cphalcon/releases/tag/v4.1.3), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v1.0.1](https://github.com/Codeception/module-phalcon5/releases/tag/v1.0.1), 4 weeks ago) - Phalcon 5 module for Codeception
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.4.2](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.4.2), 1 month ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.2.4](https://github.com/phalcon/migrations/releases/tag/v2.2.4), 1 month ago) - Generate or migrate database changes via migrations.
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.15.2](https://github.com/zephir-lang/zephir/releases/tag/0.15.2), 2 months ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
