@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (1 day ago)
-- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 day ago)
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (6 days ago)
+- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (2 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
 - [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.0.0-beta.2](https://github.com/phalcon/ide-stubs/releases/tag/v5.0.0-beta.2), 6 days ago) - Phalcon IDE Stubs
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.0.0-beta.2](https://github.com/phalcon/ide-stubs/releases/tag/v5.0.0-beta.2), 1 week ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v4.1.3](https://github.com/phalcon/cphalcon/releases/tag/v4.1.3), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v1.0.1](https://github.com/Codeception/module-phalcon5/releases/tag/v1.0.1), 1 month ago) - Phalcon 5 module for Codeception
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.4.2](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.4.2), 1 month ago) - The Zephir Parser delivered as a C extension for the PHP language.
