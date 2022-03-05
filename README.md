@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 2 weeks ago) - The Zephir Parser delivered as a C extension for the PHP language.
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 3 weeks ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [phalcon/incubator-config](https://github.com/phalcon/incubator-config) ([v2.0.0](https://github.com/phalcon/incubator-config/releases/tag/v2.0.0), 3 weeks ago) - 
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.0.0-beta.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.0.0-beta.3), 3 weeks ago) - Phalcon IDE Stubs
 - [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) ([v2.0.0](https://github.com/phalcon/incubator-validation/releases/tag/v2.0.0), 3 weeks ago) - Extra Phalcon Validator Adapters. 
