@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [phalcon/homebrew-tap](https://github.com/phalcon/homebrew-tap) - Official Homebrew tap for Phalcon PHP Framework (brew install phalcon)  (2 days ago)
-- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (2 days ago)
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (3 days ago)
+- [phalcon/homebrew-tap](https://github.com/phalcon/homebrew-tap) - Official Homebrew tap for Phalcon PHP Framework (brew install phalcon)  (3 days ago)
+- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (3 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (4 days ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (2 weeks ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (3 weeks ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 month ago)
