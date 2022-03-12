@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [phalcon/homebrew-tap](https://github.com/phalcon/homebrew-tap) - Official Homebrew tap for Phalcon PHP Framework (brew install phalcon)  (3 days ago)
-- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (3 days ago)
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (4 days ago)
+- [phalcon/homebrew-tap](https://github.com/phalcon/homebrew-tap) - Official Homebrew tap for Phalcon PHP Framework (brew install phalcon)  (4 days ago)
+- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (4 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (5 days ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (2 weeks ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (3 weeks ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 month ago)
@@ -13,8 +13,8 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 3 weeks ago) - The Zephir Parser delivered as a C extension for the PHP language.
-- [phalcon/incubator-config](https://github.com/phalcon/incubator-config) ([v2.0.0](https://github.com/phalcon/incubator-config/releases/tag/v2.0.0), 4 weeks ago) - 
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 4 weeks ago) - The Zephir Parser delivered as a C extension for the PHP language.
+- [phalcon/incubator-config](https://github.com/phalcon/incubator-config) ([v2.0.0](https://github.com/phalcon/incubator-config/releases/tag/v2.0.0), 1 month ago) - 
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.0.0-beta.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.0.0-beta.3), 1 month ago) - Phalcon IDE Stubs
 - [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) ([v2.0.0](https://github.com/phalcon/incubator-validation/releases/tag/v2.0.0), 1 month ago) - Extra Phalcon Validator Adapters. 
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0beta3](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0beta3), 1 month ago) - High performance, full-stack PHP framework delivered as a C extension.
