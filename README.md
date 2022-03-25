@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (3 days ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (4 days ago)
-- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (6 days ago)
+- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (4 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (5 days ago)
+- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (1 week ago)
 - [phalcon/homebrew-tap](https://github.com/phalcon/homebrew-tap) - Official Homebrew tap for Phalcon PHP Framework (brew install phalcon)  (2 weeks ago)
 - [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (2 weeks ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 month ago)
@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.16.0](https://github.com/zephir-lang/zephir/releases/tag/0.16.0), 3 days ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.16.0](https://github.com/zephir-lang/zephir/releases/tag/0.16.0), 4 days ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 1 month ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [phalcon/incubator-config](https://github.com/phalcon/incubator-config) ([v2.0.0](https://github.com/phalcon/incubator-config/releases/tag/v2.0.0), 1 month ago) - 
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.0.0-beta.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.0.0-beta.3), 1 month ago) - Phalcon IDE Stubs
