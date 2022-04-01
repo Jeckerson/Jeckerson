@@ -1,10 +1,10 @@
 #### :wrench: Work in progress
 
-- [phalcon/incubator-avatar](https://github.com/phalcon/incubator-avatar) - Phalcon Avatar Adapters (1 day ago)
-- [phanbook/phanbook](https://github.com/phanbook/phanbook) - A Q&amp;A and Forum PHP platform (5 days ago)
+- [phalcon/incubator-avatar](https://github.com/phalcon/incubator-avatar) - Phalcon Avatar Adapters (2 days ago)
+- [phanbook/phanbook](https://github.com/phanbook/phanbook) - A Q&amp;A and Forum PHP platform (6 days ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 week ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (1 week ago)
-- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (1 week ago)
+- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (2 weeks ago)
 - [phalcon/homebrew-tap](https://github.com/phalcon/homebrew-tap) - Official Homebrew tap for Phalcon PHP Framework (brew install phalcon)  (3 weeks ago)
 - [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (3 weeks ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 month ago)
