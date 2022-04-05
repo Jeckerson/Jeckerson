@@ -1,19 +1,19 @@
 #### :wrench: Work in progress
 
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 day ago)
-- [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (2 days ago)
-- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (3 days ago)
-- [phalcon/incubator-avatar](https://github.com/phalcon/incubator-avatar) - Phalcon Avatar Adapters (5 days ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (2 days ago)
+- [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (3 days ago)
+- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (4 days ago)
+- [phalcon/incubator-avatar](https://github.com/phalcon/incubator-avatar) - Phalcon Avatar Adapters (6 days ago)
 - [phanbook/phanbook](https://github.com/phanbook/phanbook) - A Q&amp;A and Forum PHP platform (1 week ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (2 weeks ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (2 weeks ago)
-- [phalcon/homebrew-tap](https://github.com/phalcon/homebrew-tap) - Official Homebrew tap for Phalcon PHP Framework (brew install phalcon)  (3 weeks ago)
+- [phalcon/homebrew-tap](https://github.com/phalcon/homebrew-tap) - Official Homebrew tap for Phalcon PHP Framework (brew install phalcon)  (4 weeks ago)
 - [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (4 weeks ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 month ago)
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) ([v1.0.2](https://github.com/phalcon/incubator-logger/releases/tag/v1.0.2), 2 days ago) - Extended Adapters for Phalcon Framework Logger component.
+- [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) ([v1.0.2](https://github.com/phalcon/incubator-logger/releases/tag/v1.0.2), 3 days ago) - Extended Adapters for Phalcon Framework Logger component.
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.16.0](https://github.com/zephir-lang/zephir/releases/tag/0.16.0), 2 weeks ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 1 month ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [phalcon/incubator-config](https://github.com/phalcon/incubator-config) ([v2.0.0](https://github.com/phalcon/incubator-config/releases/tag/v2.0.0), 1 month ago) - 
