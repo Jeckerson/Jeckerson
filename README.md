@@ -1,13 +1,13 @@
 #### :wrench: Work in progress
 
-- [phalcon/incubator-events](https://github.com/phalcon/incubator-events) - Extra Phalcon Events Adapters. (4 days ago)
-- [phalcon/incubator-test](https://github.com/phalcon/incubator-test) - Incubator - Test helpers for PhpUnit and Codeception (5 days ago)
-- [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (6 days ago)
+- [phalcon/incubator-events](https://github.com/phalcon/incubator-events) - Extra Phalcon Events Adapters. (5 days ago)
+- [phalcon/incubator-test](https://github.com/phalcon/incubator-test) - Incubator - Test helpers for PhpUnit and Codeception (6 days ago)
+- [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (1 week ago)
 - [phalcon/incubator-config](https://github.com/phalcon/incubator-config) -  (1 week ago)
 - [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) - Extra Phalcon Validator Adapters.  (1 week ago)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 week ago)
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (1 week ago)
-- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (1 week ago)
+- [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (2 weeks ago)
 - [phalcon/incubator-avatar](https://github.com/phalcon/incubator-avatar) - Phalcon Avatar Adapters (2 weeks ago)
 - [phanbook/phanbook](https://github.com/phanbook/phanbook) - A Q&amp;A and Forum PHP platform (2 weeks ago)
 
@@ -20,6 +20,6 @@
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.0.0-beta.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.0.0-beta.3), 2 months ago) - Phalcon IDE Stubs
 - [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) ([v2.0.0](https://github.com/phalcon/incubator-validation/releases/tag/v2.0.0), 2 months ago) - Extra Phalcon Validator Adapters. 
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0beta3](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0beta3), 2 months ago) - High performance, full-stack PHP framework delivered as a C extension.
-- [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v1.0.1](https://github.com/Codeception/module-phalcon5/releases/tag/v1.0.1), 3 months ago) - Phalcon 5 module for Codeception
+- [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v1.0.1](https://github.com/Codeception/module-phalcon5/releases/tag/v1.0.1), 4 months ago) - Phalcon 5 module for Codeception
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.2.4](https://github.com/phalcon/migrations/releases/tag/v2.2.4), 4 months ago) - Generate or migrate database changes via migrations.
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) ([v1.0.1](https://github.com/phalcon/incubator-mongodb/releases/tag/v1.0.1), 5 months ago) - MongoDB Database adapter for Phalcon Framework.
