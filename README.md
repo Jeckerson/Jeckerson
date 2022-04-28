@@ -1,6 +1,6 @@
 #### :wrench: Work in progress
 
-- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (3 days ago)
+- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (4 days ago)
 - [phalcon/incubator-session](https://github.com/phalcon/incubator-session) - Extra Phalcon Session Adapters. (1 week ago)
 - [phalcon/incubator-events](https://github.com/phalcon/incubator-events) - Extra Phalcon Events Adapters. (2 weeks ago)
 - [phalcon/incubator-test](https://github.com/phalcon/incubator-test) - Incubator - Test helpers for PhpUnit and Codeception (2 weeks ago)
