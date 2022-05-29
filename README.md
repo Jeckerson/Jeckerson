@@ -1,15 +1,15 @@
 #### :wrench: Work in progress
 
-- [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (2 days ago)
+- [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) - Extra Phalcon Validator Adapters.  (1 day ago)
+- [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (3 days ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 week ago)
 - [phalcon/incubator-cache](https://github.com/phalcon/incubator-cache) - Extra Phalcon Cache Adapters. (2 weeks ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (2 weeks ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (3 weeks ago)
 - [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (3 weeks ago)
 - [phalcon/incubator-session](https://github.com/phalcon/incubator-session) - Extra Phalcon Session Adapters. (1 month ago)
 - [phalcon/incubator-events](https://github.com/phalcon/incubator-events) - Extra Phalcon Events Adapters. (1 month ago)
 - [phalcon/incubator-test](https://github.com/phalcon/incubator-test) - Incubator - Test helpers for PhpUnit and Codeception (1 month ago)
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (1 month ago)
-- [phalcon/incubator-config](https://github.com/phalcon/incubator-config) -  (1 month ago)
 
 #### :pushpin: Latest releases I've contributed to
 
