@@ -1,9 +1,9 @@
 #### :wrench: Work in progress
 
-- [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (1 day ago)
-- [phanbook/phanbook](https://github.com/phanbook/phanbook) - A Q&amp;A and Forum PHP platform (1 day ago)
-- [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) - Extra components for Phalcon\Acl (2 days ago)
-- [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) - Extra Phalcon Validator Adapters.  (4 days ago)
+- [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (2 days ago)
+- [phanbook/phanbook](https://github.com/phanbook/phanbook) - A Q&amp;A and Forum PHP platform (2 days ago)
+- [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) - Extra components for Phalcon\Acl (3 days ago)
+- [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) - Extra Phalcon Validator Adapters.  (5 days ago)
 - [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 week ago)
 - [phalcon/incubator-test](https://github.com/phalcon/incubator-test) - Incubator - Test helpers for PhpUnit and Codeception (1 week ago)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 week ago)
