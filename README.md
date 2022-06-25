@@ -1,10 +1,10 @@
 #### :wrench: Work in progress
 
-- [phalcon/incubator-test](https://github.com/phalcon/incubator-test) - Incubator - Test helpers for PhpUnit and Codeception (1 day ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (3 days ago)
-- [phanbook/phanbook](https://github.com/phanbook/phanbook) - A Q&amp;A and Forum PHP platform (5 days ago)
-- [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (5 days ago)
-- [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) - Extra components for Phalcon\Acl (6 days ago)
+- [phalcon/incubator-test](https://github.com/phalcon/incubator-test) - Incubator - Test helpers for PhpUnit and Codeception (2 days ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (4 days ago)
+- [phanbook/phanbook](https://github.com/phanbook/phanbook) - A Q&amp;A and Forum PHP platform (6 days ago)
+- [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (6 days ago)
+- [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) - Extra components for Phalcon\Acl (1 week ago)
 - [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) - Extra Phalcon Validator Adapters.  (1 week ago)
 - [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
