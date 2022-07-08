@@ -8,7 +8,7 @@
 - [phanbook/phanbook](https://github.com/phanbook/phanbook) - A Q&amp;A and Forum PHP platform (2 weeks ago)
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (2 weeks ago)
 - [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) - Extra components for Phalcon\Acl (2 weeks ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 weeks ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) - MongoDB Database adapter for Phalcon Framework. (1 month ago)
 
 #### :pushpin: Latest releases I've contributed to
@@ -20,6 +20,6 @@
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 4 months ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [phalcon/incubator-config](https://github.com/phalcon/incubator-config) ([v2.0.0](https://github.com/phalcon/incubator-config/releases/tag/v2.0.0), 4 months ago) - 
 - [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) ([v2.0.0](https://github.com/phalcon/incubator-validation/releases/tag/v2.0.0), 5 months ago) - Extra Phalcon Validator Adapters. 
-- [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.2.4](https://github.com/phalcon/migrations/releases/tag/v2.2.4), 6 months ago) - Generate or migrate database changes via migrations.
+- [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.2.4](https://github.com/phalcon/migrations/releases/tag/v2.2.4), 7 months ago) - Generate or migrate database changes via migrations.
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) ([v1.0.1](https://github.com/phalcon/incubator-mongodb/releases/tag/v1.0.1), 8 months ago) - MongoDB Database adapter for Phalcon Framework.
 - [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) ([v1.0](https://github.com/zephir-lang/setup-php-sdk/releases/tag/v1.0), 9 months ago) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds
