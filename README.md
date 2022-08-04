@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2207221643000](https://github.com/ampproject/amphtml/releases/tag/2207221643000), 1 week ago) - The AMP web component framework.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2207281718000](https://github.com/ampproject/amphtml/releases/tag/2207281718000), 1 day ago) - The AMP web component framework.
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0RC3](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0RC3), 3 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.0](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.0), 2 months ago) - Phalcon 5 module for Codeception
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) ([v1.0.2](https://github.com/phalcon/incubator-logger/releases/tag/v1.0.2), 4 months ago) - Extended Adapters for Phalcon Framework Logger component.
