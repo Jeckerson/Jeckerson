@@ -13,12 +13,12 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0RC4](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0RC4), 2 days ago) - High performance, full-stack PHP framework delivered as a C extension.
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2207281718001](https://github.com/ampproject/amphtml/releases/tag/2207281718001), 6 days ago) - The AMP web component framework.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2207281718002](https://github.com/ampproject/amphtml/releases/tag/2207281718002), 1 day ago) - The AMP web component framework.
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0RC4](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0RC4), 3 days ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.0](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.0), 2 months ago) - Phalcon 5 module for Codeception
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) ([v1.0.2](https://github.com/phalcon/incubator-logger/releases/tag/v1.0.2), 4 months ago) - Extended Adapters for Phalcon Framework Logger component.
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.16.0](https://github.com/zephir-lang/zephir/releases/tag/0.16.0), 4 months ago) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP.
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 5 months ago) - The Zephir Parser delivered as a C extension for the PHP language.
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 6 months ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [phalcon/incubator-config](https://github.com/phalcon/incubator-config) ([v2.0.0](https://github.com/phalcon/incubator-config/releases/tag/v2.0.0), 6 months ago) - 
 - [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) ([v2.0.0](https://github.com/phalcon/incubator-validation/releases/tag/v2.0.0), 6 months ago) - Extra Phalcon Validator Adapters. 
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.2.4](https://github.com/phalcon/migrations/releases/tag/v2.2.4), 8 months ago) - Generate or migrate database changes via migrations.
