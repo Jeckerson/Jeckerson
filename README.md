@@ -1,6 +1,6 @@
 #### :wrench: Work in progress
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (2 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high level language aimed to the creation of C-extensions for PHP. (3 days ago)
 - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework. (1 month ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
 - [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 month ago)
@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2208121708000](https://github.com/ampproject/amphtml/releases/tag/2208121708000), 3 days ago) - The AMP web component framework.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2208121708000](https://github.com/ampproject/amphtml/releases/tag/2208121708000), 4 days ago) - The AMP web component framework.
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0RC4](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0RC4), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.0](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.0), 2 months ago) - Phalcon 5 module for Codeception
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) ([v1.0.2](https://github.com/phalcon/incubator-logger/releases/tag/v1.0.2), 4 months ago) - Extended Adapters for Phalcon Framework Logger component.
