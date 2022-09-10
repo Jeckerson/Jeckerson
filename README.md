@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (5 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (6 days ago)
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland (1 week ago)
-- [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (1 week ago)
+- [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (2 weeks ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (2 weeks ago)
 - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework. (1 month ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 months ago)
@@ -19,7 +19,7 @@
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.0](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.0), 3 months ago) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.0](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.0), 3 months ago) - Phalcon 5 module for Codeception
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) ([v1.0.2](https://github.com/phalcon/incubator-logger/releases/tag/v1.0.2), 5 months ago) - Extended Adapters for Phalcon Framework Logger component.
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 6 months ago) - The Zephir Parser delivered as a C extension for the PHP language.
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 7 months ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [phalcon/incubator-config](https://github.com/phalcon/incubator-config) ([v2.0.0](https://github.com/phalcon/incubator-config/releases/tag/v2.0.0), 7 months ago) - 
 - [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) ([v2.0.0](https://github.com/phalcon/incubator-validation/releases/tag/v2.0.0), 7 months ago) - Extra Phalcon Validator Adapters. 
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v2.2.4](https://github.com/phalcon/migrations/releases/tag/v2.2.4), 9 months ago) - Generate or migrate database changes via migrations.
