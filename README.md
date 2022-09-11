@@ -1,7 +1,7 @@
 #### :wrench: Work in progress
 
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (6 days ago)
-- [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland (1 week ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 week ago)
+- [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland (2 weeks ago)
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (2 weeks ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (2 weeks ago)
 - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework. (1 month ago)
