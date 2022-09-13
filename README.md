@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2208242209000](https://github.com/ampproject/amphtml/releases/tag/2208242209000), 1 week ago) - The AMP web component framework.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2208242209000](https://github.com/ampproject/amphtml/releases/tag/2208242209000), 2 weeks ago) - The AMP web component framework.
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.16.2](https://github.com/zephir-lang/zephir/releases/tag/0.16.2), 3 weeks ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0RC4](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0RC4), 1 month ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.0](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.0), 3 months ago) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
