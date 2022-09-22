@@ -1,7 +1,7 @@
 #### :wrench: Work in progress
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (2 days ago)
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (2 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (3 days ago)
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (3 days ago)
 - [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (2 weeks ago)
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland (3 weeks ago)
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (3 weeks ago)
@@ -13,9 +13,9 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.1](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.1), 2 days ago) - The Zephir Parser delivered as a C extension for the PHP language.
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.16.3](https://github.com/zephir-lang/zephir/releases/tag/0.16.3), 4 days ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2208242209001](https://github.com/ampproject/amphtml/releases/tag/2208242209001), 6 days ago) - The AMP web component framework.
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.1](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.1), 3 days ago) - The Zephir Parser delivered as a C extension for the PHP language.
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.16.3](https://github.com/zephir-lang/zephir/releases/tag/0.16.3), 5 days ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2208242209001](https://github.com/ampproject/amphtml/releases/tag/2208242209001), 1 week ago) - The AMP web component framework.
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0RC4](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0RC4), 1 month ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.0](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.0), 3 months ago) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.0](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.0), 3 months ago) - Phalcon 5 module for Codeception
