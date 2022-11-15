@@ -1,7 +1,7 @@
 #### :wrench: Work in progress
 
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 days ago)
-- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (1 week ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 days ago)
+- [phlexus/phlexus-core](https://github.com/phlexus/phlexus-core) - :cyclone: Phlexus Core (2 weeks ago)
 - [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (2 weeks ago)
 - [phalcon/docker](https://github.com/phalcon/docker) - Official docker images with Phalcon framework. (2 weeks ago)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (2 weeks ago)
@@ -13,8 +13,8 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.1.1](https://github.com/phalcon/cphalcon/releases/tag/v5.1.1), 2 days ago) - High performance, full-stack PHP framework delivered as a C extension.
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2211042305000](https://github.com/ampproject/amphtml/releases/tag/2211042305000), 6 days ago) - The AMP web component framework.
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.1.1](https://github.com/phalcon/cphalcon/releases/tag/v5.1.1), 3 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2211042305000](https://github.com/ampproject/amphtml/releases/tag/2211042305000), 1 week ago) - The AMP web component framework.
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.1.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.1.0), 1 week ago) - Phalcon IDE Stubs
 - [RubixML/ML](https://github.com/RubixML/ML) ([2.2.1](https://github.com/RubixML/ML/releases/tag/2.2.1), 1 month ago) - A high-level machine learning and deep learning library for the PHP language.
 - [phalcon/invo](https://github.com/phalcon/invo) ([v2.0.0](https://github.com/phalcon/invo/releases/tag/v2.0.0), 1 month ago) - Sample application for the Phalcon PHP Framework
