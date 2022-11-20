@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2211111611000](https://github.com/ampproject/amphtml/releases/tag/2211111611000), 4 days ago) - The AMP web component framework.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2211111611000](https://github.com/ampproject/amphtml/releases/tag/2211111611000), 5 days ago) - The AMP web component framework.
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.1.1](https://github.com/phalcon/cphalcon/releases/tag/v5.1.1), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.1.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.1.0), 2 weeks ago) - Phalcon IDE Stubs
 - [RubixML/ML](https://github.com/RubixML/ML) ([2.2.1](https://github.com/RubixML/ML/releases/tag/2.2.1), 1 month ago) - A high-level machine learning and deep learning library for the PHP language.
