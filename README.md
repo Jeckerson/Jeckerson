@@ -13,8 +13,8 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [RubixML/ML](https://github.com/RubixML/ML) ([1.3.5](https://github.com/RubixML/ML/releases/tag/1.3.5), 2 days ago) - A high-level machine learning and deep learning library for the PHP language.
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2211302304000](https://github.com/ampproject/amphtml/releases/tag/2211302304000), 2 days ago) - The AMP web component framework.
+- [RubixML/ML](https://github.com/RubixML/ML) ([1.3.5](https://github.com/RubixML/ML/releases/tag/1.3.5), 3 days ago) - A high-level machine learning and deep learning library for the PHP language.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2211302304000](https://github.com/ampproject/amphtml/releases/tag/2211302304000), 3 days ago) - The AMP web component framework.
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.1.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.1.3), 1 week ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.1.2](https://github.com/phalcon/cphalcon/releases/tag/v5.1.2), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/invo](https://github.com/phalcon/invo) ([v2.0.0](https://github.com/phalcon/invo/releases/tag/v2.0.0), 1 month ago) - Sample application for the Phalcon PHP Framework
