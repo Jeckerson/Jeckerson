@@ -13,10 +13,10 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2211302304002](https://github.com/ampproject/amphtml/releases/tag/2211302304002), 1 day ago) - The AMP web component framework.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2211302304002](https://github.com/ampproject/amphtml/releases/tag/2211302304002), 2 days ago) - The AMP web component framework.
 - [RubixML/ML](https://github.com/RubixML/ML) ([1.3.5](https://github.com/RubixML/ML/releases/tag/1.3.5), 2 weeks ago) - A high-level machine learning and deep learning library for the PHP language.
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.1.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.1.3), 2 weeks ago) - Phalcon IDE Stubs
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.1.2](https://github.com/phalcon/cphalcon/releases/tag/v5.1.2), 2 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.1.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.1.3), 3 weeks ago) - Phalcon IDE Stubs
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.1.2](https://github.com/phalcon/cphalcon/releases/tag/v5.1.2), 3 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/dd](https://github.com/phalcon/dd) ([v2.0.0](https://github.com/phalcon/dd/releases/tag/v2.0.0), 2 months ago) - This package will add the dd and dump helpers to your Phalcon application.
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([1.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/1.0.0), 2 months ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.1](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.1), 2 months ago) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
