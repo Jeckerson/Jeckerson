@@ -1,6 +1,6 @@
 #### :wrench: Work in progress
 
-- [phalcon/docker](https://github.com/phalcon/docker) - Official docker images with Phalcon framework. (5 days ago)
+- [phalcon/docker](https://github.com/phalcon/docker) - Official docker images with Phalcon framework. (6 days ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 week ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
@@ -13,8 +13,8 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.1.4](https://github.com/phalcon/cphalcon/releases/tag/v5.1.4), 2 days ago) - High performance, full-stack PHP framework delivered as a C extension.
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2301041800000](https://github.com/ampproject/amphtml/releases/tag/2301041800000), 2 days ago) - The AMP web component framework.
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.1.4](https://github.com/phalcon/cphalcon/releases/tag/v5.1.4), 3 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2301041800000](https://github.com/ampproject/amphtml/releases/tag/2301041800000), 3 days ago) - The AMP web component framework.
 - [phalcon/traits](https://github.com/phalcon/traits) ([2.0.1](https://github.com/phalcon/traits/releases/tag/2.0.1), 1 week ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [RubixML/ML](https://github.com/RubixML/ML) ([2.3.0](https://github.com/RubixML/ML/releases/tag/2.3.0), 1 week ago) - A high-level machine learning and deep learning library for the PHP language.
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.2](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.2), 2 weeks ago) - The Zephir Parser delivered as a C extension for the PHP language.
