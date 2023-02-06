@@ -1,7 +1,7 @@
 #### :wrench: Work in progress
 
-- [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) - Bridge to run Phalcon with Swoole. (1 day ago)
-- [phalcon/docker](https://github.com/phalcon/docker) - Official docker images with Phalcon framework. (4 days ago)
+- [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) - Bridge to run Phalcon with Swoole. (2 days ago)
+- [phalcon/docker](https://github.com/phalcon/docker) - Official docker images with Phalcon framework. (5 days ago)
 - [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (1 week ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 month ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2301261900000](https://github.com/ampproject/amphtml/releases/tag/2301261900000), 4 days ago) - The AMP web component framework.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2301261900000](https://github.com/ampproject/amphtml/releases/tag/2301261900000), 5 days ago) - The AMP web component framework.
 - [phalcon/traits](https://github.com/phalcon/traits) ([2.0.2](https://github.com/phalcon/traits/releases/tag/2.0.2), 3 weeks ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.1.4](https://github.com/phalcon/ide-stubs/releases/tag/v5.1.4), 3 weeks ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.1.4](https://github.com/phalcon/cphalcon/releases/tag/v5.1.4), 3 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
