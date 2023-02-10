@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 day ago)
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 day ago)
-- [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) - Bridge to run Phalcon with Swoole. (5 days ago)
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (2 days ago)
+- [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) - Bridge to run Phalcon with Swoole. (6 days ago)
 - [phalcon/docker](https://github.com/phalcon/docker) - Official docker images with Phalcon framework. (1 week ago)
 - [phlexus/phlexus-library-auth](https://github.com/phlexus/phlexus-library-auth) - :books: Phlexus Authentication Library (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
@@ -13,8 +13,8 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.3](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.3), 1 day ago) - The Zephir Parser delivered as a C extension for the PHP language.
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2302031721000](https://github.com/ampproject/amphtml/releases/tag/2302031721000), 2 days ago) - The AMP web component framework.
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.3](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.3), 2 days ago) - The Zephir Parser delivered as a C extension for the PHP language.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2302031721000](https://github.com/ampproject/amphtml/releases/tag/2302031721000), 3 days ago) - The AMP web component framework.
 - [phalcon/traits](https://github.com/phalcon/traits) ([2.0.2](https://github.com/phalcon/traits/releases/tag/2.0.2), 3 weeks ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.1.4](https://github.com/phalcon/ide-stubs/releases/tag/v5.1.4), 3 weeks ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.1.4](https://github.com/phalcon/cphalcon/releases/tag/v5.1.4), 1 month ago) - High performance, full-stack PHP framework delivered as a C extension.
