@@ -1,9 +1,9 @@
 #### :wrench: Work in progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
-- [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) - Bridge to run Phalcon with Swoole. (1 day ago)
-- [phalcon/docker](https://github.com/phalcon/docker) - Official docker images with Phalcon framework. (6 days ago)
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (6 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
+- [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) - Bridge to run Phalcon with Swoole. (2 days ago)
+- [phalcon/docker](https://github.com/phalcon/docker) - Official docker images with Phalcon framework. (1 week ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (1 week ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
@@ -13,10 +13,10 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) ([v1.0.0](https://github.com/phalcon/bridge-swoole/releases/tag/v1.0.0), 1 day ago) - Bridge to run Phalcon with Swoole.
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.1), 6 days ago) - Phalcon IDE Stubs
+- [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) ([v1.0.0](https://github.com/phalcon/bridge-swoole/releases/tag/v1.0.0), 2 days ago) - Bridge to run Phalcon with Swoole.
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.1), 1 week ago) - Phalcon IDE Stubs
 - [RubixML/ML](https://github.com/RubixML/ML) ([2.3.1](https://github.com/RubixML/ML/releases/tag/2.3.1), 1 week ago) - A high-level machine learning and deep learning library for the PHP language.
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2302271541000](https://github.com/ampproject/amphtml/releases/tag/2302271541000), 1 week ago) - The AMP web component framework.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2302271541000](https://github.com/ampproject/amphtml/releases/tag/2302271541000), 2 weeks ago) - The AMP web component framework.
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.1](https://github.com/phalcon/cphalcon/releases/tag/v5.2.1), 2 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.17.0](https://github.com/zephir-lang/zephir/releases/tag/0.17.0), 1 month ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.3](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.3), 1 month ago) - The Zephir Parser delivered as a C extension for the PHP language.
