@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (3 days ago)
-- [phalcon/docker](https://github.com/phalcon/docker) - Official docker images with Phalcon framework. (6 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 days ago)
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (4 days ago)
+- [phalcon/docker](https://github.com/phalcon/docker) - Official docker images with Phalcon framework. (1 week ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (1 week ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (4 weeks ago)
 - [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) - Bridge to run Phalcon with Swoole. (1 month ago)
@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2304212144000](https://github.com/ampproject/amphtml/releases/tag/2304212144000), 1 day ago) - The AMP web component framework.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2304212144000](https://github.com/ampproject/amphtml/releases/tag/2304212144000), 2 days ago) - The AMP web component framework.
 - [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) ([v1.0.0](https://github.com/phalcon/bridge-swoole/releases/tag/v1.0.0), 1 month ago) - Bridge to run Phalcon with Swoole.
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.1), 1 month ago) - Phalcon IDE Stubs
 - [RubixML/ML](https://github.com/RubixML/ML) ([2.3.1](https://github.com/RubixML/ML/releases/tag/2.3.1), 1 month ago) - A high-level machine learning and deep learning library for the PHP language.
