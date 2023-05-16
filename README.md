@@ -13,8 +13,8 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [RubixML/ML](https://github.com/RubixML/ML) ([2.3.2](https://github.com/RubixML/ML/releases/tag/2.3.2), 2 days ago) - A high-level machine learning and deep learning library for the PHP language.
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2305051745000](https://github.com/ampproject/amphtml/releases/tag/2305051745000), 6 days ago) - The AMP web component framework.
+- [RubixML/ML](https://github.com/RubixML/ML) ([2.3.2](https://github.com/RubixML/ML/releases/tag/2.3.2), 3 days ago) - A high-level machine learning and deep learning library for the PHP language.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2305051745000](https://github.com/ampproject/amphtml/releases/tag/2305051745000), 1 week ago) - The AMP web component framework.
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) ([v2.0.0](https://github.com/phalcon/incubator-mailer/releases/tag/v2.0.0), 1 week ago) - Send mail with Phalcon
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v3.0.1](https://github.com/phalcon/migrations/releases/tag/v3.0.1), 1 week ago) - Generate or migrate database changes via migrations.
 - [phalcon/traits](https://github.com/phalcon/traits) ([2.0.3](https://github.com/phalcon/traits/releases/tag/2.0.3), 2 weeks ago) - Traits used primarily in the v6 package but also available as a helper package for applications
