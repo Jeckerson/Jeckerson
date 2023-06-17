@@ -1,6 +1,6 @@
 #### :wrench: Work in progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (4 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (5 days ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 week ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (2 weeks ago)
 - [phalcon/incubator-test](https://github.com/phalcon/incubator-test) - Incubator - Test helpers for PhpUnit and Codeception (2 weeks ago)
@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2306082008000](https://github.com/ampproject/amphtml/releases/tag/2306082008000), 3 days ago) - The AMP web component framework.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2306082008000](https://github.com/ampproject/amphtml/releases/tag/2306082008000), 4 days ago) - The AMP web component framework.
 - [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) ([v1.0.1](https://github.com/phalcon/incubator-acl/releases/tag/v1.0.1), 2 weeks ago) - Extra components for Acl
 - [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) ([v2.1.0](https://github.com/phalcon/incubator-validation/releases/tag/v2.1.0), 2 weeks ago) - Extra Phalcon Validator Adapters. 
 - [RubixML/ML](https://github.com/RubixML/ML) ([2.4.0](https://github.com/RubixML/ML/releases/tag/2.4.0), 3 weeks ago) - A high-level machine learning and deep learning library for the PHP language.
