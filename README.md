@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [phlexus/phlexus-files](https://github.com/phlexus/phlexus-files) - Phlexus CMS Files Manager (2 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (4 days ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (5 days ago)
+- [phlexus/phlexus-files](https://github.com/phlexus/phlexus-files) - Phlexus CMS Files Manager (3 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (5 days ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (6 days ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (2 weeks ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (3 weeks ago)
 - [phalcon/incubator-test](https://github.com/phalcon/incubator-test) - Incubator - Test helpers for PhpUnit and Codeception (3 weeks ago)
@@ -13,8 +13,8 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2306202201000](https://github.com/ampproject/amphtml/releases/tag/2306202201000), 2 days ago) - The AMP web component framework.
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.2](https://github.com/phalcon/cphalcon/releases/tag/v5.2.2), 5 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2306202201000](https://github.com/ampproject/amphtml/releases/tag/2306202201000), 3 days ago) - The AMP web component framework.
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.2](https://github.com/phalcon/cphalcon/releases/tag/v5.2.2), 6 days ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) ([v1.0.1](https://github.com/phalcon/incubator-acl/releases/tag/v1.0.1), 3 weeks ago) - Extra components for Acl
 - [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) ([v2.1.0](https://github.com/phalcon/incubator-validation/releases/tag/v2.1.0), 3 weeks ago) - Extra Phalcon Validator Adapters. 
 - [RubixML/ML](https://github.com/RubixML/ML) ([2.4.0](https://github.com/RubixML/ML/releases/tag/2.4.0), 4 weeks ago) - A high-level machine learning and deep learning library for the PHP language.
