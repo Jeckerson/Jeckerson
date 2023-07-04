@@ -13,8 +13,8 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.2](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.2), 3 days ago) - Phalcon IDE Stubs
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2306232033000](https://github.com/ampproject/amphtml/releases/tag/2306232033000), 6 days ago) - The AMP web component framework.
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.2](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.2), 4 days ago) - Phalcon IDE Stubs
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2306232033000](https://github.com/ampproject/amphtml/releases/tag/2306232033000), 1 week ago) - The AMP web component framework.
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.2](https://github.com/phalcon/cphalcon/releases/tag/v5.2.2), 2 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) ([v1.0.1](https://github.com/phalcon/incubator-acl/releases/tag/v1.0.1), 1 month ago) - Extra components for Acl
 - [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) ([v2.1.0](https://github.com/phalcon/incubator-validation/releases/tag/v2.1.0), 1 month ago) - Extra Phalcon Validator Adapters. 
