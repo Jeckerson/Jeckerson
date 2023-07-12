@@ -1,11 +1,11 @@
 #### :wrench: Work in progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
-- [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) - MongoDB Database adapter for Phalcon Framework. (2 days ago)
-- [phalcon/incubator-cache](https://github.com/phalcon/incubator-cache) - Extra Phalcon Cache Adapters. (6 days ago)
-- [phalcon/incubator](https://github.com/phalcon/incubator) - Incubator adapters/functionality for the Phalcon PHP Framework (6 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
+- [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) - MongoDB Database adapter for Phalcon Framework. (3 days ago)
+- [phalcon/incubator-cache](https://github.com/phalcon/incubator-cache) - Extra Phalcon Cache Adapters. (1 week ago)
+- [phalcon/incubator](https://github.com/phalcon/incubator) - Incubator adapters/functionality for the Phalcon PHP Framework (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
-- [phlexus/phlexus-files](https://github.com/phlexus/phlexus-files) - Phlexus CMS Files Manager (2 weeks ago)
+- [phlexus/phlexus-files](https://github.com/phlexus/phlexus-files) - Phlexus CMS Files Manager (3 weeks ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 month ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 month ago)
 - [phalcon/incubator-test](https://github.com/phalcon/incubator-test) - Incubator - Test helpers for PhpUnit and Codeception (1 month ago)
@@ -13,8 +13,8 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) ([v2.0.0](https://github.com/phalcon/incubator-mongodb/releases/tag/v2.0.0), 2 days ago) - MongoDB Database adapter for Phalcon Framework.
-- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2306301917000](https://github.com/ampproject/amphtml/releases/tag/2306301917000), 6 days ago) - The AMP web component framework.
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) ([2307052224000](https://github.com/ampproject/amphtml/releases/tag/2307052224000), 1 day ago) - The AMP web component framework.
+- [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) ([v2.0.0](https://github.com/phalcon/incubator-mongodb/releases/tag/v2.0.0), 3 days ago) - MongoDB Database adapter for Phalcon Framework.
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.2](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.2), 1 week ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.2](https://github.com/phalcon/cphalcon/releases/tag/v5.2.2), 3 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) ([v1.0.1](https://github.com/phalcon/incubator-acl/releases/tag/v1.0.1), 1 month ago) - Extra components for Acl
