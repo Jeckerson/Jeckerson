@@ -3,7 +3,7 @@
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 weeks ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (3 weeks ago)
-- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (3 weeks ago)
+- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (4 weeks ago)
 - [phalcon/incubator-db](https://github.com/phalcon/incubator-db) -  (4 weeks ago)
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (1 month ago)
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) - MongoDB Database adapter for Phalcon Framework. (1 month ago)
