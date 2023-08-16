@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 weeks ago)
-- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (3 weeks ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 day ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
+- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (4 weeks ago)
 - [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (1 month ago)
 - [phalcon/incubator-db](https://github.com/phalcon/incubator-db) -  (1 month ago)
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (1 month ago)
@@ -13,8 +13,8 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.3](https://github.com/phalcon/cphalcon/releases/tag/v5.2.3), 2 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.3), 2 weeks ago) - Phalcon IDE Stubs
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.3.0](https://github.com/phalcon/cphalcon/releases/tag/v5.3.0), 1 day ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.3), 3 weeks ago) - Phalcon IDE Stubs
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) ([v2.0.0](https://github.com/phalcon/incubator-logger/releases/tag/v2.0.0), 1 month ago) - Extended Adapters for Phalcon Framework Logger component.
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) ([v2.0.0](https://github.com/phalcon/incubator-mongodb/releases/tag/v2.0.0), 1 month ago) - MongoDB Database adapter for Phalcon Framework.
 - [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) ([v1.0.1](https://github.com/phalcon/incubator-acl/releases/tag/v1.0.1), 2 months ago) - Extra components for Acl
