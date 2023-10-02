@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (2 weeks ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (3 weeks ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 month ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 month ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (2 months ago)
