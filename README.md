@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 week ago)
-- [phalcon/incubator-session](https://github.com/phalcon/incubator-session) - Extra Phalcon Session Adapters. (1 week ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 day ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
+- [phalcon/incubator-session](https://github.com/phalcon/incubator-session) - Extra Phalcon Session Adapters. (2 weeks ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (4 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (2 months ago)
@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/incubator-session](https://github.com/phalcon/incubator-session) ([v2.0.0](https://github.com/phalcon/incubator-session/releases/tag/v2.0.0), 1 week ago) - Extra Phalcon Session Adapters.
+- [phalcon/incubator-session](https://github.com/phalcon/incubator-session) ([v2.0.0](https://github.com/phalcon/incubator-session/releases/tag/v2.0.0), 2 weeks ago) - Extra Phalcon Session Adapters.
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.4.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.4.0), 3 weeks ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.4.0](https://github.com/phalcon/cphalcon/releases/tag/v5.4.0), 3 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.6.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.6.0), 2 months ago) - The Zephir Parser delivered as a C extension for the PHP language.
