@@ -21,5 +21,5 @@
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) ([v2.0.0](https://github.com/phalcon/incubator-logger/releases/tag/v2.0.0), 6 months ago) - Extended Adapters for Phalcon Framework Logger component.
 - [phalcon/incubator-acl](https://github.com/phalcon/incubator-acl) ([v1.0.1](https://github.com/phalcon/incubator-acl/releases/tag/v1.0.1), 8 months ago) - Extra components for Acl
 - [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) ([v2.1.0](https://github.com/phalcon/incubator-validation/releases/tag/v2.1.0), 8 months ago) - Extra Phalcon Validator Adapters. 
-- [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) ([v2.0.0](https://github.com/phalcon/incubator-mailer/releases/tag/v2.0.0), 8 months ago) - Send mail with Phalcon
+- [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) ([v2.0.0](https://github.com/phalcon/incubator-mailer/releases/tag/v2.0.0), 9 months ago) - Send mail with Phalcon
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v3.0.1](https://github.com/phalcon/migrations/releases/tag/v3.0.1), 9 months ago) - Generate or migrate database changes via migrations.
