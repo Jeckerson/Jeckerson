@@ -1,5 +1,6 @@
 #### :wrench: Work in progress
 
+- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (1 day ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 weeks ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (3 weeks ago)
@@ -9,7 +10,6 @@
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 month ago)
 - [phalcon/incubator-session](https://github.com/phalcon/incubator-session) - Extra Phalcon Session Adapters. (2 months ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (3 months ago)
-- [phalcon-orphanage/docs](https://github.com/phalcon-orphanage/docs) - Phalcon Framework documentation (4 months ago)
 
 #### :pushpin: Latest releases I've contributed to
 
