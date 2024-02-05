@@ -1,10 +1,10 @@
 #### :wrench: Work in progress
 
-- [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (1 day ago)
-- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (4 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
+- [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (2 days ago)
+- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (5 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 weeks ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (4 weeks ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 month ago)
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) - MongoDB Database adapter for Phalcon Framework. (1 month ago)
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (1 month ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 month ago)
