@@ -1,9 +1,9 @@
 #### :wrench: Work in progress
 
-- [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (2 days ago)
-- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (5 days ago)
+- [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (3 days ago)
+- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (6 days ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 weeks ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 weeks ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 weeks ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 month ago)
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) - MongoDB Database adapter for Phalcon Framework. (1 month ago)
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (1 month ago)
@@ -13,8 +13,8 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.6.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.6.0), 3 weeks ago) - Phalcon IDE Stubs
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.6.0](https://github.com/phalcon/cphalcon/releases/tag/v5.6.0), 3 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.6.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.6.0), 4 weeks ago) - Phalcon IDE Stubs
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.6.0](https://github.com/phalcon/cphalcon/releases/tag/v5.6.0), 4 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) ([v2.0.1](https://github.com/phalcon/incubator-mongodb/releases/tag/v2.0.1), 1 month ago) - MongoDB Database adapter for Phalcon Framework.
 - [phalcon/incubator-session](https://github.com/phalcon/incubator-session) ([v2.0.0](https://github.com/phalcon/incubator-session/releases/tag/v2.0.0), 3 months ago) - Extra Phalcon Session Adapters.
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.6.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.6.0), 5 months ago) - The Zephir Parser delivered as a C extension for the PHP language.
