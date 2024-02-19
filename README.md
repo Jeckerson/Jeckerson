@@ -1,7 +1,7 @@
 #### :wrench: Work in progress
 
+- [phalcon/docker](https://github.com/phalcon/docker) - Official docker images with Phalcon framework. (1 day ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 week ago)
-- [phalcon/docker](https://github.com/phalcon/docker) - Official docker images with Phalcon framework. (1 week ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 week ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (2 weeks ago)
 - [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (2 weeks ago)
