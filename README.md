@@ -1,6 +1,6 @@
 #### :wrench: Work in progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 days ago)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 week ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (2 weeks ago)
 - [phalcon/docker](https://github.com/phalcon/docker) - Official docker images with Phalcon framework. (3 weeks ago)
@@ -22,4 +22,4 @@
 - [phalcon/incubator-validation](https://github.com/phalcon/incubator-validation) ([v2.1.0](https://github.com/phalcon/incubator-validation/releases/tag/v2.1.0), 9 months ago) - Extra Phalcon Validator Adapters. 
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) ([v2.0.0](https://github.com/phalcon/incubator-mailer/releases/tag/v2.0.0), 10 months ago) - Send mail with Phalcon
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v3.0.1](https://github.com/phalcon/migrations/releases/tag/v3.0.1), 10 months ago) - Generate or migrate database changes via migrations.
-- [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) ([v1.0.0](https://github.com/phalcon/bridge-swoole/releases/tag/v1.0.0), 1 year ago) - Bridge to run Phalcon with Swoole.
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.17.0](https://github.com/zephir-lang/zephir/releases/tag/0.17.0), 1 year ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
