@@ -9,7 +9,7 @@
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 months ago)
 - [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) - Bridge to run Phalcon with Swoole. (3 months ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (3 months ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (4 months ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (5 months ago)
 
 #### :pushpin: Latest releases I've contributed to
 
