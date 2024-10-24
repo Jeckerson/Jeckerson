@@ -19,6 +19,6 @@
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) ([v2.0.1](https://github.com/phalcon/incubator-mongodb/releases/tag/v2.0.1), 9 months ago) - MongoDB Database adapter for Phalcon Framework.
 - [phalcon/incubator-session](https://github.com/phalcon/incubator-session) ([v2.0.0](https://github.com/phalcon/incubator-session/releases/tag/v2.0.0), 11 months ago) - Extra Phalcon Session Adapters.
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) ([v2.0.0](https://github.com/phalcon/incubator-logger/releases/tag/v2.0.0), 1 year ago) - Extended Adapters for Phalcon Framework Logger component.
-- [phalcon/migrations](https://github.com/phalcon/migrations) ([v3.0.1](https://github.com/phalcon/migrations/releases/tag/v3.0.1), 1 year ago) - Generate or migrate database changes via migrations.
+- [phalcon/migrations](https://github.com/phalcon/migrations) ([v3.0.1](https://github.com/phalcon/migrations/releases/tag/v3.0.1), 2 years ago) - Generate or migrate database changes via migrations.
 - [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) ([v1.0.0](https://github.com/phalcon/bridge-swoole/releases/tag/v1.0.0), 2 years ago) - Bridge to run Phalcon with Swoole.
 - [phalcon/blog](https://github.com/phalcon/blog) ([v3.0.4p](https://github.com/phalcon/blog/releases/tag/v3.0.4p), 5 years ago) - Phalcon Framework&#39;s blog
