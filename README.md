@@ -1,10 +1,10 @@
 #### :wrench: Work in progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (4 days ago)
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (5 days ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 day ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (5 days ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 week ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 week ago)
-- [phalcon/phql](https://github.com/phalcon/phql) -  (2 weeks ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (2 weeks ago)
+- [phalcon/phql](https://github.com/phalcon/phql) -  (3 weeks ago)
 - [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) - Command line arguments/options parser to use in Phalcon applications. (3 weeks ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 month ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (3 months ago)
