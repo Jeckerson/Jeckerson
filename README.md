@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 week ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 day ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (2 weeks ago)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (2 weeks ago)
 - [phalcon/phql](https://github.com/phalcon/phql) -  (3 weeks ago)
 - [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) - Command line arguments/options parser to use in Phalcon applications. (4 weeks ago)
