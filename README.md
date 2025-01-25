@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (4 days ago)
-- [phlexus/phalcon-router](https://github.com/phlexus/phalcon-router) - Multi format wrapper for Phalcon Router (5 days ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (6 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (5 days ago)
+- [phlexus/phalcon-router](https://github.com/phlexus/phalcon-router) - Multi format wrapper for Phalcon Router (6 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 week ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 week ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (2 weeks ago)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 month ago)
