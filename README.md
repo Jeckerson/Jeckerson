@@ -6,7 +6,7 @@
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (3 weeks ago)
 - [phlexus/phalcon-router](https://github.com/phlexus/phalcon-router) - Multi format wrapper for Phalcon Router (1 month ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 month ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 month ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (2 months ago)
 - [phalcon/phql](https://github.com/phalcon/phql) -  (2 months ago)
 - [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) - Command line arguments/options parser to use in Phalcon applications. (2 months ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (2 months ago)
