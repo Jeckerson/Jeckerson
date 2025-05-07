@@ -9,7 +9,7 @@
 - [phlexus/phalcon-router](https://github.com/phlexus/phalcon-router) - Multi format wrapper for Phalcon Router (3 months ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (3 months ago)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (4 months ago)
-- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) - Command line arguments/options parser to use in Phalcon applications. (4 months ago)
+- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) - Command line arguments/options parser to use in Phalcon applications. (5 months ago)
 
 #### :pushpin: Latest releases I've contributed to
 
