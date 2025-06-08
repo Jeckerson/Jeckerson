@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 days ago)
-- [phalcon/phql](https://github.com/phalcon/phql) -  (4 days ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (5 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (4 days ago)
+- [phalcon/phql](https://github.com/phalcon/phql) -  (5 days ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (6 days ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (3 weeks ago)
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (3 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 months ago)
@@ -20,5 +20,4 @@
 - [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) ([v2.0.0](https://github.com/phalcon/cli-options-parser/releases/tag/v2.0.0), 2 years ago) - Command line arguments/options parser to use in Phalcon applications.
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) ([v2.0.0](https://github.com/phalcon/incubator-mailer/releases/tag/v2.0.0), 2 years ago) - Send mail with Phalcon
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v3.0.1](https://github.com/phalcon/migrations/releases/tag/v3.0.1), 2 years ago) - Generate or migrate database changes via migrations.
-- [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) ([v1.0.0](https://github.com/phalcon/bridge-swoole/releases/tag/v1.0.0), 2 years ago) - Bridge to run Phalcon with Swoole.
 - [phalcon/blog](https://github.com/phalcon/blog) ([v3.0.4p](https://github.com/phalcon/blog/releases/tag/v3.0.4p), 6 years ago) - Phalcon Framework&#39;s blog
