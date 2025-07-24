@@ -1,11 +1,11 @@
 #### :wrench: Work in progress
 
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2 days ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 day ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (3 days ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (2 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 weeks ago)
 - [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (1 month ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 month ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 month ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 month ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (2 months ago)
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (2 months ago)
