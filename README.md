@@ -1,9 +1,9 @@
 #### :wrench: Work in progress
 
-- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (1 day ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
-- [phalcon/builtwith](https://github.com/phalcon/builtwith) - Websites built with Phalcon (4 days ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
+- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (2 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
+- [phalcon/builtwith](https://github.com/phalcon/builtwith) - Websites built with Phalcon (5 days ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2 weeks ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (1 month ago)
 - [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (1 month ago)
@@ -17,7 +17,6 @@
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.19.0](https://github.com/zephir-lang/zephir/releases/tag/0.19.0), 2 months ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.9.3](https://github.com/phalcon/cphalcon/releases/tag/v5.9.3), 3 months ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.7.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.7.0), 8 months ago) - The Zephir Parser delivered as a C extension for the PHP language.
-- [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) ([v2.0.1](https://github.com/phalcon/incubator-mongodb/releases/tag/v2.0.1), 2 years ago) - MongoDB Database adapter for Phalcon Framework.
 - [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) ([v2.0.0](https://github.com/phalcon/cli-options-parser/releases/tag/v2.0.0), 2 years ago) - Command line arguments/options parser to use in Phalcon applications.
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v3.0.1](https://github.com/phalcon/migrations/releases/tag/v3.0.1), 2 years ago) - Generate or migrate database changes via migrations.
 - [phalcon/builtwith](https://github.com/phalcon/builtwith) ([v-pre](https://github.com/phalcon/builtwith/releases/tag/v-pre), 6 years ago) - Websites built with Phalcon
