@@ -1,15 +1,15 @@
 #### :wrench: Work in progress
 
-- [phalcon/incubator-session](https://github.com/phalcon/incubator-session) - Extra Phalcon Session Adapters. (1 day ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (3 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (5 days ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (6 days ago)
+- [phalcon/incubator-session](https://github.com/phalcon/incubator-session) - Extra Phalcon Session Adapters. (2 days ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (4 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 week ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (3 weeks ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (3 weeks ago)
 - [phanbook/phanbook](https://github.com/phanbook/phanbook) - A Q&amp;A and Forum PHP platform (1 month ago)
 - [phalcon/builtwith](https://github.com/phalcon/builtwith) - Websites built with Phalcon (2 months ago)
 - [zephir-lang/zephir-atom](https://github.com/zephir-lang/zephir-atom) - Zephir syntax highlighter for Atom (2 months ago)
-- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) - Command line arguments/options parser to use in Phalcon applications. (2 months ago)
+- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) - Command line arguments/options parser to use in Phalcon applications. (3 months ago)
 
 #### :pushpin: Latest releases I've contributed to
 
