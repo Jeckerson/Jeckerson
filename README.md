@@ -1,10 +1,10 @@
 #### :wrench: Work in progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 day ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (2 days ago)
-- [phalcon/incubator-session](https://github.com/phalcon/incubator-session) - Extra Phalcon Session Adapters. (4 days ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (6 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (2 days ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (3 days ago)
+- [phalcon/incubator-session](https://github.com/phalcon/incubator-session) - Extra Phalcon Session Adapters. (5 days ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 week ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 week ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (3 weeks ago)
 - [phanbook/phanbook](https://github.com/phanbook/phanbook) - A Q&amp;A and Forum PHP platform (2 months ago)
