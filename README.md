@@ -9,7 +9,7 @@
 - [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds (2 weeks ago)
 - [phalcon/builtwith](https://github.com/phalcon/builtwith) - Websites built with Phalcon (3 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 weeks ago)
-- [phlexus/phlexus-files](https://github.com/phlexus/phlexus-files) - Phlexus CMS Files Manager (4 weeks ago)
+- [phlexus/phlexus-files](https://github.com/phlexus/phlexus-files) - Phlexus CMS Files Manager (1 month ago)
 
 #### :pushpin: Latest releases I've contributed to
 
