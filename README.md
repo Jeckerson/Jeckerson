@@ -1,11 +1,11 @@
 #### :wrench: Work in progress
 
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 day ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 week ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (2 weeks ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 day ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 day ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (2 days ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (2 weeks ago)
-- [phlexus/phlexus](https://github.com/phlexus/phlexus) - :house: Phlexus CMS (2 weeks ago)
+- [phlexus/phlexus](https://github.com/phlexus/phlexus) - :house: Phlexus CMS (3 weeks ago)
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (1 month ago)
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) - MongoDB Database adapter for Phalcon Framework. (1 month ago)
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (1 month ago)
