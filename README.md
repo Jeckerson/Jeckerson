@@ -1,18 +1,19 @@
 #### :wrench: Work in progress
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (3 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (4 days ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (4 days ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (5 days ago)
+- [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) - An IntelliJ plugin for editing Zephir code (1 day ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (4 days ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (5 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (5 days ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (6 days ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (3 weeks ago)
 - [phlexus/phlexus](https://github.com/phlexus/phlexus) - :house: Phlexus CMS (3 weeks ago)
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (1 month ago)
 - [phalcon/incubator-mongodb](https://github.com/phalcon/incubator-mongodb) - MongoDB Database adapter for Phalcon Framework. (1 month ago)
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (1 month ago)
-- [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds (1 month ago)
 
 #### :pushpin: Latest releases I've contributed to
 
+- [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) ([0.5.0](https://github.com/zephir-lang/idea-plugin/releases/tag/0.5.0), 1 day ago) - An IntelliJ plugin for editing Zephir code
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.10.0](https://github.com/phalcon/cphalcon/releases/tag/v5.10.0), 2 months ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/incubator-session](https://github.com/phalcon/incubator-session) ([v3.0.0](https://github.com/phalcon/incubator-session/releases/tag/v3.0.0), 4 months ago) - Extra Phalcon Session Adapters.
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.8.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.8.0), 5 months ago) - The Zephir Parser delivered as a C extension for the PHP language.
@@ -22,4 +23,3 @@
 - [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) ([v2.0.0](https://github.com/phalcon/cli-options-parser/releases/tag/v2.0.0), 2 years ago) - Command line arguments/options parser to use in Phalcon applications.
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) ([v2.0.0](https://github.com/phalcon/incubator-logger/releases/tag/v2.0.0), 2 years ago) - Extended Adapters for Phalcon Framework Logger component.
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v3.0.1](https://github.com/phalcon/migrations/releases/tag/v3.0.1), 2 years ago) - Generate or migrate database changes via migrations.
-- [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) ([v1.0](https://github.com/zephir-lang/setup-php-sdk/releases/tag/v1.0), 4 years ago) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds
