@@ -1,9 +1,9 @@
 #### :wrench: Work in progress
 
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (6 days ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (6 days ago)
-- [phalcon/incubator-session](https://github.com/phalcon/incubator-session) - Extra Phalcon Session Adapters. (6 days ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (6 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (today)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 week ago)
+- [phalcon/incubator-session](https://github.com/phalcon/incubator-session) - Extra Phalcon Session Adapters. (1 week ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 week ago)
 - [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds (1 week ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 week ago)
 - [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (2 weeks ago)
@@ -13,9 +13,9 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) ([v6.0.0alpha3](https://github.com/phalcon/phalcon/releases/tag/v6.0.0alpha3), 1 day ago) - [WIP] Phalcon Framework. Work will continue after release of v5.0
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([1.0.0](https://github.com/zephir-lang/zephir/releases/tag/1.0.0), 1 day ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) ([v6.0.0alpha3](https://github.com/phalcon/phalcon/releases/tag/v6.0.0alpha3), 2 days ago) - [WIP] Phalcon Framework. Work will continue after release of v5.0
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.16.0](https://github.com/phalcon/cphalcon/releases/tag/v5.16.0), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.23.0](https://github.com/zephir-lang/zephir/releases/tag/0.23.0), 3 weeks ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v2.0.4](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v2.0.4), 3 weeks ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [Jeckerson/idea-orbitrack](https://github.com/Jeckerson/idea-orbitrack) ([v1.0.5](https://github.com/Jeckerson/idea-orbitrack/releases/tag/v1.0.5), 2 months ago) - JetBrains plugin to aggregate GitHub issues and PRs across organizations and repositories into a single IDE-native interface with LLM context extraction.
 - [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) ([0.6.0](https://github.com/zephir-lang/idea-plugin/releases/tag/0.6.0), 3 months ago) - An IntelliJ plugin for editing Zephir code
