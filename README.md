@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (2 days ago)
-- [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) - Bridge to run Phalcon with Swoole. (5 days ago)
-- [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (1 week ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (3 days ago)
+- [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) - Bridge to run Phalcon with Swoole. (6 days ago)
+- [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (2 weeks ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (2 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (2 weeks ago)
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (2 weeks ago)
@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) ([v1.1.0](https://github.com/phalcon/bridge-swoole/releases/tag/v1.1.0), 5 days ago) - Bridge to run Phalcon with Swoole.
+- [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) ([v1.1.0](https://github.com/phalcon/bridge-swoole/releases/tag/v1.1.0), 6 days ago) - Bridge to run Phalcon with Swoole.
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.18.2](https://github.com/phalcon/cphalcon/releases/tag/v5.18.2), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) ([v6.0.0beta6](https://github.com/phalcon/phalcon/releases/tag/v6.0.0beta6), 1 week ago) - Phalcon Framework as a PHP implementation
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([1.2.0](https://github.com/zephir-lang/zephir/releases/tag/1.2.0), 2 weeks ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
