@@ -1,15 +1,15 @@
 #### :wrench: Work in progress
 
-- [phalcon/annotations](https://github.com/phalcon/annotations) - Annotations parser library (1 day ago)
-- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (3 days ago)
-- [phalcon/debugbar](https://github.com/phalcon/debugbar) -  (3 days ago)
-- [phalcon/bridge-psr11](https://github.com/phalcon/bridge-psr11) - Bridge PSR-11 connects the Phalcon Container and the PSR-11 standard in both directions (3 days ago)
-- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) - Command line arguments/options parser to use in Phalcon applications. (3 days ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (3 days ago)
-- [pilothouse/homebrew-bosun](https://github.com/pilothouse/homebrew-bosun) -  (1 week ago)
-- [pilothouse/bosun](https://github.com/pilothouse/bosun) - Native macOS workbench for GitHub and coding agents. Connection rail for SSH remotes and local folders, an issue/PR detail pane, an org/repo tree and a built-in libghostty terminal drawn with Metal. (1 week ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 day ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 day ago)
+- [phalcon/annotations](https://github.com/phalcon/annotations) - Annotations parser library (2 days ago)
+- [phalcon/debugbar](https://github.com/phalcon/debugbar) -  (4 days ago)
+- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (4 days ago)
+- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) - Command line arguments/options parser to use in Phalcon applications. (4 days ago)
+- [phalcon/bridge-psr11](https://github.com/phalcon/bridge-psr11) - Bridge PSR-11 connects the Phalcon Container and the PSR-11 standard in both directions (4 days ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 week ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
+- [pilothouse/bosun](https://github.com/pilothouse/bosun) - Native macOS workbench for GitHub and coding agents. Connection rail for SSH remotes and local folders, an issue/PR detail pane, an org/repo tree and a built-in libghostty terminal drawn with Metal. (1 week ago)
+- [pilothouse/homebrew-bosun](https://github.com/pilothouse/homebrew-bosun) -  (1 week ago)
 
 #### :pushpin: Latest releases I've contributed to
 
