@@ -4,7 +4,7 @@
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) - Phalcon Tutorial (1 week ago)
 - [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (1 week ago)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 week ago)
-- [phalcon/annotations](https://github.com/phalcon/annotations) - Annotations parser library (1 week ago)
+- [phalcon/annotations](https://github.com/phalcon/annotations) - Annotations parser library (2 weeks ago)
 - [phalcon/bridge-psr11](https://github.com/phalcon/bridge-psr11) - Bridge PSR-11 connects the Phalcon Container and the PSR-11 standard in both directions (2 weeks ago)
 - [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (2 weeks ago)
 - [phalcon/debugbar](https://github.com/phalcon/debugbar) -  (2 weeks ago)
