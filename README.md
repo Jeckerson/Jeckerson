@@ -2,7 +2,7 @@
 
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 day ago)
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) - Phalcon Tutorial (1 week ago)
-- [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (1 week ago)
+- [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (2 weeks ago)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (2 weeks ago)
 - [phalcon/annotations](https://github.com/phalcon/annotations) - Annotations parser library (2 weeks ago)
 - [phalcon/bridge-psr11](https://github.com/phalcon/bridge-psr11) - Bridge PSR-11 connects the Phalcon Container and the PSR-11 standard in both directions (2 weeks ago)
@@ -13,9 +13,9 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([1.6.0](https://github.com/zephir-lang/zephir/releases/tag/1.6.0), 1 day ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.22.1](https://github.com/phalcon/cphalcon/releases/tag/v5.22.1), 1 day ago) - High performance, full-stack PHP framework delivered as a C extension.
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) ([v6.0.0RC3](https://github.com/phalcon/phalcon/releases/tag/v6.0.0RC3), 1 day ago) - Phalcon Framework as a PHP implementation
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([1.6.1](https://github.com/zephir-lang/zephir/releases/tag/1.6.1), 1 day ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.22.1](https://github.com/phalcon/cphalcon/releases/tag/v5.22.1), 2 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) ([v6.0.0RC3](https://github.com/phalcon/phalcon/releases/tag/v6.0.0RC3), 2 days ago) - Phalcon Framework as a PHP implementation
 - [pilothouse/bosun](https://github.com/pilothouse/bosun) ([v1.1.0](https://github.com/pilothouse/bosun/releases/tag/v1.1.0), 3 weeks ago) - Native macOS workbench for GitHub and coding agents. Connection rail for SSH remotes and local folders, an issue/PR detail pane, an org/repo tree and a built-in libghostty terminal drawn with Metal.
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v2.8.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v2.8.0), 3 weeks ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [phalcon/bridge-swoole](https://github.com/phalcon/bridge-swoole) ([v1.1.0](https://github.com/phalcon/bridge-swoole/releases/tag/v1.1.0), 1 month ago) - Bridge to run Phalcon with Swoole.
