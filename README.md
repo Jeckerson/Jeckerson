@@ -1,14 +1,14 @@
 #### :wrench: Work in progress
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (3 days ago)
-- [pilothouse/homebrew-bosun](https://github.com/pilothouse/homebrew-bosun) -  (4 days ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (6 days ago)
-- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (6 days ago)
-- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) - Command line arguments/options parser to use in Phalcon applications. (6 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 day ago)
+- [pilothouse/homebrew-bosun](https://github.com/pilothouse/homebrew-bosun) -  (5 days ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 week ago)
+- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (1 week ago)
+- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) - Command line arguments/options parser to use in Phalcon applications. (1 week ago)
 - [pilothouse/bosun](https://github.com/pilothouse/bosun) - Native macOS workbench for GitHub and coding agents. Connection rail for SSH remotes and local folders, an issue/PR detail pane, an org/repo tree and a built-in libghostty terminal drawn with Metal. (1 week ago)
 - [AdPriva/adpriva-contracts](https://github.com/AdPriva/adpriva-contracts) - Blockchain contract for privacy-preserving proof anchoring on Horizen and EVM-compatible networks. (1 week ago)
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) -  (1 week ago)
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 week ago)
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (2 weeks ago)
 - [phalcon/debugbar](https://github.com/phalcon/debugbar) -  (3 weeks ago)
 
 #### :pushpin: Latest releases I've contributed to
