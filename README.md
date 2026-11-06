@@ -1,8 +1,8 @@
 #### :wrench: Work in progress
 
-- [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (3 days ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (3 days ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (4 days ago)
+- [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (4 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (4 days ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (5 days ago)
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) - The Zephir Parser delivered as a C extension for the PHP language. (1 week ago)
 - [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds (1 week ago)
 - [pilothouse/homebrew-bosun](https://github.com/pilothouse/homebrew-bosun) -  (2 weeks ago)
@@ -13,7 +13,7 @@
 
 #### :pushpin: Latest releases I've contributed to
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([1.7.0](https://github.com/zephir-lang/zephir/releases/tag/1.7.0), 6 days ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([1.7.0](https://github.com/zephir-lang/zephir/releases/tag/1.7.0), 1 week ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v2.10.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v2.10.0), 1 week ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [pilothouse/bosun](https://github.com/pilothouse/bosun) ([v1.3.0](https://github.com/pilothouse/bosun/releases/tag/v1.3.0), 2 weeks ago) - Native macOS workbench for GitHub and coding agents. Connection rail for SSH remotes and local folders, an issue/PR detail pane, an org/repo tree and a built-in libghostty terminal drawn with Metal.
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.23.0](https://github.com/phalcon/cphalcon/releases/tag/v5.23.0), 3 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
